@@ -1,0 +1,16 @@
+.DS_Store
+coverage
+dist
+dist-bundles
+lib
+misc
+node_modules
+*.log
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/test-results/
+/playwright-report/
+/playwright/.cache/
+/tests-examples
+
